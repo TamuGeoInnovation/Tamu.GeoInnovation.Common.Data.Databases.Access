@@ -1,0 +1,7 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Utils.Databases.Access.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Utils.Databases.Access.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\src\obj\Debug\Common.Utils.Databases.Access.csprojResolveAssemblyReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\src\obj\Debug\Interop.ADODB.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\src\obj\Debug\Common.Utils.Databases.Access.csproj.ResolveComReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\src\obj\Debug\USC.GISResearchLab.Common.Utils.Databases.Access.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\src\obj\Debug\USC.GISResearchLab.Common.Utils.Databases.Access.pdb

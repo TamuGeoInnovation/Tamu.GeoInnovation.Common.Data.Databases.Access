@@ -1,0 +1,10 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\build\v1.1\bin\AnyCPU\release\USC.GISResearchLab.Common.Utils.Databases.Access.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\src\obj\Release\Common.Utils.Databases.Access.csprojResolveAssemblyReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\src\obj\Release\Interop.ADODB.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\src\obj\Release\Common.Utils.Databases.Access.csproj.ResolveComReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Utils\Databases.Access\src\obj\Release\USC.GISResearchLab.Common.Utils.Databases.Access.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Data\Databases.Access\Src\Main\obj\Release\Common.Utils.Databases.Access.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Common\Data\Databases.Access\Src\Main\obj\Release\Interop.ADODB.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Data\Databases.Access\Src\Main\obj\Release\Common.Utils.Databases.Access.csproj.ResolveComReference.cache
+C:\DevBuild\Tamu\GeoInnovation\Common\Data\Databases.Access\Geo\build\1.0.0\release\Tamu.GeoInnovation.Common.Data.Databases.Access.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Data\Databases.Access\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Data.Databases.Access.dll
