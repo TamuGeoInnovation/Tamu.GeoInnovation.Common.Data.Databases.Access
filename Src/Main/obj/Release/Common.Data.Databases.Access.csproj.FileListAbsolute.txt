@@ -1,6 +1,0 @@
-C:\DevBuild\Tamu\GeoInnovation\Common\Data\Databases.Access\build\1.0.0\release\Tamu.GeoInnovation.Common.Data.Databases.Access.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Data\Databases.Access\Src\Main\obj\Release\Common.Data.Databases.Access.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\Common\Data\Databases.Access\Src\Main\obj\Release\Interop.ADODB.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Data\Databases.Access\Src\Main\obj\Release\Common.Data.Databases.Access.csproj.ResolveComReference.cache
-C:\DevSource\Tamu\GeoInnovation\Common\Data\Databases.Access\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Data.Databases.Access.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Data\Databases.Access\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Data.Databases.Access.dll
