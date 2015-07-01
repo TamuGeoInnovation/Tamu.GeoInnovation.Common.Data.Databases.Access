@@ -84,7 +84,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Interop.ADOX">
-      <HintPath>..\..\..\..\..\..\..\..\DevDependencies\Microsoft\ADOX\bin\Interop.ADOX.dll</HintPath>
+      <HintPath>..\..\libs\Interop.ADOX.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
       <Private>False</Private>
     </Reference>
