@@ -29,7 +29,7 @@ namespace USC.GISResearchLab.Common.Databases.Access
         {
             try
             {
-                CatalogClass cat = new CatalogClass();
+                Catalog cat = new Catalog();
                 cat.Create("Provider=Microsoft.Jet.OLEDB.4.0;" +
                     "Data Source=" + Path.Combine(Location, databaseName) + ";" +
                     "Jet OLEDB:Engine Type=5");

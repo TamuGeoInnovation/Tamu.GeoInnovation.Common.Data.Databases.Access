@@ -56,7 +56,7 @@ namespace USC.GISResearchLab.Common.Databases.Access
                         throw new Exception("Unexpected DataProviderType: " + DataProviderType);
                 }
 
-                CatalogClass cat = new CatalogClass();
+                Catalog cat = new Catalog();
                 var o = cat.Create("Provider=Microsoft.Jet.OLEDB.4.0;" + "Data Source=" + databasePath + ";" + "Jet OLEDB:Engine Type=5");
 
                 Marshal.ReleaseComObject(cat);
