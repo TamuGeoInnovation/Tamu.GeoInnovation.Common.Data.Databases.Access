@@ -1,7 +1,7 @@
-﻿using System;
+﻿using ADOX;
+using System;
 using System.IO;
 using System.Runtime.InteropServices;
-using ADOX;
 using USC.GISResearchLab.Common.Core.Databases;
 using USC.GISResearchLab.Common.Databases.DataSources;
 using USC.GISResearchLab.Common.Utils.Files;
@@ -13,7 +13,7 @@ namespace USC.GISResearchLab.Common.Databases.Access
 
         public AccessDataSourceManager()
         {
-            
+
         }
 
         public AccessDataSourceManager(string location, string defualtDatabase, string userName, string password, string[] parameters)

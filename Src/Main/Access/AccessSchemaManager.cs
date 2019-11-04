@@ -1,21 +1,19 @@
-﻿using System;
+﻿using ADOX;
+using System;
 using System.Data;
 using System.Data.Odbc;
 using System.Data.OleDb;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
-using ADOX;
 using USC.GISResearchLab.Common.Core.Databases;
 using USC.GISResearchLab.Common.Databases.QueryManagers;
 using USC.GISResearchLab.Common.Databases.SchemaManagers;
 using USC.GISResearchLab.Common.Databases.SqlServer;
 using USC.GISResearchLab.Common.Databases.TypeConverters;
-
-using USC.GISResearchLab.Common.Utils.Databases.TableDefinitions;
-
-using USC.GISResearchLab.Common.Utils.Files;
 using USC.GISResearchLab.Common.Diagnostics.TraceEvents;
+using USC.GISResearchLab.Common.Utils.Databases.TableDefinitions;
 using USC.GISResearchLab.Common.Utils.Exceptions;
+using USC.GISResearchLab.Common.Utils.Files;
 
 namespace USC.GISResearchLab.Common.Databases.Access
 {
@@ -406,7 +404,7 @@ namespace USC.GISResearchLab.Common.Databases.Access
                 //cnahge "Jet OLEDB:Engine Type=5" to an appropriate value
                 // or leave it as is if you db is JET4X format (access 2000,2002)
                 //(yes, jetengine5 is for JET4X, no misprint here)
-                oParams = new object[] { 
+                oParams = new object[] {
                     "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + mdbFileName + ";Jet OLEDB:Engine Type=5",
                     "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + tempFilepath + ";Jet OLEDB:Engine Type=5" };
 
